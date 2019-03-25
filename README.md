@@ -4,7 +4,7 @@ This repository contains the starter codes for all famous Machine Learning Algor
 
 ### Repository Structure
 
-#### Classification: (Individual Algorithm codes)
+#### /Classification: (Individual Algorithm codes)
 
     Adaboost
     
@@ -19,7 +19,7 @@ This repository contains the starter codes for all famous Machine Learning Algor
     Support Vector Machine
     
 ###### How to Run:
-    Each folder conatins the python class for that algorithm and an example in jupyter notebook
+    Each folder conatins the python class for that algorithm and a ready to run example in jupyter notebook
     
     
 #### all-classifier.py
